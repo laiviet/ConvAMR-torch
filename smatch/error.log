@@ -1,0 +1,4 @@
+usage: smatch.py [-h] -f F F [-r R] [--significant SIGNIFICANT] [-v] [--vv]
+                 [--ms] [--pr] [--justinstance] [--justattribute]
+                 [--justrelation]
+smatch.py: error: argument -f: can't open '/home/vietld/jaist/fairseq/tmp/output_LDC2014T12_convenc_r0_gen-b01.txt.tmp.amr.txt': [Errno 2] No such file or directory: '/home/vietld/jaist/fairseq/tmp/output_LDC2014T12_convenc_r0_gen-b01.txt.tmp.amr.txt'
