@@ -65,7 +65,7 @@ ROOT
 |-tmp
 ```
 
-Step 1: Please copy training/dev/test folder of LDC2014T12 and LDC2017T10 into ``corpus`` directory.
+Step 1: Please copy training/dev/test of LDC2014T12 and LDC2017T10 into ``corpus`` directory, accordingly.
 
 Step 2: Preprocess AMR file:
 
