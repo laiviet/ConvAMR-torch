@@ -17,9 +17,6 @@ We published the source code for the paper [ConvAMR: Abstract Meaning Representa
   eprint    = {1711.06141},
 }
 ```
-
-We derive and modify the [``fairseq``](https://github.com/facebookresearch/fairseq-py) project form  facebook research.
-
 ## Installation
 
 Install torch (not pytorch) [here](http://torch.ch/docs/getting-started.html)
