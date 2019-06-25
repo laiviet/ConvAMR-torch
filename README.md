@@ -20,9 +20,9 @@ We published the source code for the paper [ConvAMR: Abstract Meaning Representa
 ## Installation
 
 ### Install torch and fairseq 
+We recommend to install and run this with ``Ubuntu 16.04``, ``cuda 8.0``, ``cudnn 5.1``.
 
-We got a lot of trouble with compiling torch, fairseq and dependencies. We developed this project in 2017 using ``Ubuntu 16.04``, ``cuda 8.0``, ``cudnn 5.1``. We recently (June 2019) tested it on ``Ubuntu 18.04``, ``cuda 8.0``, ``cudnn 5.1``. If you use Ubuntu 18.04, follow this [post](https://www.kadamwhite.com/archives/2018/install-torch-7-and-cuda-9-1-on-ubuntu-18-04-lts) to modify torch and fairseq installation scripts.
-
+We recently (June 2019) tested it on ``Ubuntu 18.04``, ``cuda 8.0``, ``cudnn 5.1``. We got a lot of trouble with compiling torch, fairseq and dependencies. If you use Ubuntu 18.04, follow this [post](https://www.kadamwhite.com/archives/2018/install-torch-7-and-cuda-9-1-on-ubuntu-18-04-lts) to modify torch and fairseq installation scripts.
 
 Torch installation can be found [here](http://torch.ch/docs/getting-started.html)
 
