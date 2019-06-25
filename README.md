@@ -61,6 +61,7 @@ ROOT
 |-data-bin
   |-LDC2014T12.fairseq
 |-output
+  |-LDC2014T12.fairseq.fconv.r0
 |-tmp
 ```
 
