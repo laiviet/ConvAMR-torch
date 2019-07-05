@@ -21,7 +21,7 @@ python -m amr.preprocess --linearize \
                         -o test.$DATASET
 
 
-th preprocess.lua -sourcelang snt \
+fairseq preprocess -sourcelang snt \
                    -targetlang amr \
                    -trainpref $INPUT/train.$DATASET \
                    -validpref $INPUT/valid.$DATASET \
